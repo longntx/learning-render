@@ -1,4 +1,4 @@
-import Base from "@/components/base";
+import Base from "@/components/base-memo";
 import styles from "@/styles/Home.module.css";
 import { Inter } from "@next/font/google";
 import Head from "next/head";
